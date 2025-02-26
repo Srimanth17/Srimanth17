@@ -1,4 +1,4 @@
- 👋 Hi, I'm Srimanth Goud Khanapur!
+  👋 Hi, I'm Srimanth Goud Khanapur!
  💻 Data Analyst | Business Intelligence | Healthcare Analytics
 
 I am a results-driven Business Analyst** with expertise in data analysis, business intelligence, and market research. I specialize in Power BI, Tableau, SQL, and ETL processes to drive strategic decision-making. Passionate about streamlining business operations, supply chain optimization, and predictive modeling, I thrive on turning raw data into actionable insights.
